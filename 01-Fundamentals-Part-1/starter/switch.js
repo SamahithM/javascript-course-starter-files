@@ -1,25 +1,25 @@
 const day = prompt("Enter the day of the week: ");
 switch (day) {
     case "monday":
-        console.log("monday");
+        alert("monday");
         break;
     case "tuesday":
-        console.log("tuesday");
+        alert("tuesday");
         break;
     case "wednesday":
-        console.log("wednesday");
+        alert("wednesday");
         break;
     case "thursday":
-        console.log("thursday");
+        alert("thursday");
         break;
     case "friday":
-        console.log("friday");
+        alert("friday");
         break;
     case "saturday":
-        console.log("saturday");
+        alert("saturday");
         break;
     case "sunday":
-        console.log("sunday");
+        alert("sunday");
         break;
     default:
         console.log("Not a valid day");
