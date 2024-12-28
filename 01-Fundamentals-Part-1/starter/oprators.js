@@ -38,3 +38,11 @@ x /= 5;
 console.log(x);
 x %= 5;
 console.log(x);
+
+
+
+const now = 2024;
+const ageJonas =  now - 1991;
+const ageSarah = now - 2018;
+console.log(ageJonas, ageSarah);
+
