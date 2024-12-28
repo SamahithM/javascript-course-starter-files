@@ -25,3 +25,13 @@ switch (day) {
         alert("Not a valid day");
         break;
 }
+
+
+
+//  conditional and ternary operator
+
+const age = prompt("Enter your age: ");
+
+age >= 18 ? alert("You are an adult ") : alert("You are a child");
+//condition ? true : false  
+
