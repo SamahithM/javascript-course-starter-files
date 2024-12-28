@@ -22,6 +22,6 @@ switch (day) {
         alert("sunday");
         break;
     default:
-        console.log("Not a valid day");
+        alert("Not a valid day");
         break;
 }
