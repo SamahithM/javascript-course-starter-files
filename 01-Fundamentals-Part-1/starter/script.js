@@ -1,3 +1,1 @@
-console.log('hlo')
-
-alert("HI")
+console.log(1 + 1);
