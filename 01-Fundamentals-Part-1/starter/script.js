@@ -20,3 +20,11 @@ let _true = true;
 let _false = false;
 console.log(_true, _false)
 
+// different ways of declaring variables
+let firstName = "samahith";
+var  lastName = "kumar";
+const PI = 3.14;
+
+console.log(firstName, lastName, PI);
+
+
