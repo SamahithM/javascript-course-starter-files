@@ -15,3 +15,6 @@ let calcAge2 = function (birthyear, currentyear) {
 }   
 
 console.log(calcAge2(2002, 2024));
+
+
+//arrow function
